@@ -22,7 +22,7 @@ cryptography==3.3.2
     # via -r requirements.in
 deprecated==1.2.13
     # via opentelemetry-api
-flask==1.1.4
+flask==2.2.5
     # via -r requirements.in
 flask-management-endpoints==1.1.0
     # via -r requirements.in
