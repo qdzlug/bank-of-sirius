@@ -37,7 +37,7 @@ click==7.1.1
     #   flask
 coverage==6.4
     # via pytest-cov
-cryptography==3.3.2
+cryptography==41.0.5
     # via -r requirements.in
 deprecated==1.2.13
     # via opentelemetry-api
@@ -201,7 +201,7 @@ webencodings==0.5.1
     # via
     #   -r requirements.in
     #   bleach
-werkzeug==1.0.1
+werkzeug==3.0.1
     # via
     #   -r requirements.in
     #   flask
