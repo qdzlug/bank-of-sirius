@@ -47,7 +47,7 @@ flask-management-endpoints==1.1.0
     # via -r requirements.in
 googleapis-common-protos==1.56.1
     # via opentelemetry-exporter-otlp-proto-grpc
-grpcio==1.39.0
+grpcio==1.53.2
     # via
     #   -r requirements.in
     #   opentelemetry-exporter-otlp-proto-grpc
@@ -86,7 +86,7 @@ opentelemetry-api==1.11.1
     #   opentelemetry-sdk
 opentelemetry-exporter-otlp-proto-grpc==1.11.1
     # via -r requirements.in
-opentelemetry-instrumentation==0.30b1
+opentelemetry-instrumentation==0.41b0
     # via
     #   opentelemetry-instrumentation-flask
     #   opentelemetry-instrumentation-logging
@@ -126,7 +126,7 @@ pluggy==0.13.1
     # via
     #   -r requirements.in
     #   pytest
-protobuf==3.19.1
+protobuf==3.19.5
     # via
     #   -r requirements.in
     #   googleapis-common-protos
@@ -208,3 +208,4 @@ zipp==1.2.0
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
