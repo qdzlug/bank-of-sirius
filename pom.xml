@@ -62,7 +62,7 @@
         <dependency.opentelemetry-exporter-otlp.version>1.12.0</dependency.opentelemetry-exporter-otlp.version>
         <dependency.opentelemetry-sdk-extension-resources>1.12.0</dependency.opentelemetry-sdk-extension-resources>
         <dependency.micrometer.version>1.8.5</dependency.micrometer.version>
-        <dependency.grpc-api.version>1.45.1</dependency.grpc-api.version>
+        <dependency.grpc-api.version>1.63.0</dependency.grpc-api.version>
         <dependency.error-prone.version>2.11.0</dependency.error-prone.version>
 
         <!-- Test dependency versions -->
