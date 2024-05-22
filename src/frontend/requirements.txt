@@ -107,7 +107,7 @@ pyjwt==1.7.1
     # via -r requirements.in
 pyparsing==3.0.9
     # via packaging
-requests==2.23.0
+requests==2.32.0
     # via -r requirements.in
 six==1.16.0
     # via
