@@ -212,7 +212,7 @@ wrapt==1.12.1
     #   opentelemetry-instrumentation
     #   opentelemetry-instrumentation-jinja2
     #   opentelemetry-instrumentation-sqlalchemy
-zipp==1.2.0
+zipp==3.19.1
     # via
     #   -r requirements.in
     #   importlib-metadata
