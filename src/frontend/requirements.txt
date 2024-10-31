@@ -118,7 +118,7 @@ typing-extensions==4.2.0
     # via opentelemetry-sdk
 urllib3==1.25.11
     # via requests
-werkzeug==1.0.1
+werkzeug==3.0.6
     # via flask
 wrapt==1.12.1
     # via
