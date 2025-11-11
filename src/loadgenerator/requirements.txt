@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file=- --pip-args='--no-color --prefer-binary' requirements.in
 #
-brotli==1.0.9
+brotli==1.2.0
     # via geventhttpclient
 certifi==2021.5.30
     # via
